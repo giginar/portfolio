@@ -362,6 +362,10 @@ header {
         padding-left: 1em;
         padding-right: calc(200px + 4em);
     }
+
+    .about-me__body {
+        text-align: justify;
+    }
     
     .about-me__img {
         grid-area: img;
@@ -457,10 +461,12 @@ header {
     padding: 0 2em 2em;
     max-width: 1000px;
     margin: 0 auto;
+    text-align: justify;
 }
 
 .portfolio-item-individual p {
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
+    text-align: justify;
 }
