@@ -19,4 +19,3 @@ The site is live on www.yigitkucukcinar.com, you are welcome to visit!
 - Twitter: https://twitter.com/GigiKucukcinar
 
 ## Happy Coding!
-  
