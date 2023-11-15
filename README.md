@@ -1,4 +1,4 @@
-##Portfolio Website
+## Portfolio Website
 This repository contains the code for my personal portfolio website. I created this to showcase my skills, projects and experiences
 
 ## About
@@ -18,5 +18,5 @@ The site is live on www.yigitkucukcinar.com, you are welcome to visit!
 - Linkedin: https://www.linkedin.com/in/yigit-kucukcinar/
 - Twitter: https://twitter.com/GigiKucukcinar
 
-Happy Coding!
+## Happy Coding!
   
